@@ -1,5 +1,4 @@
 export type TokenStatus = "New Pair" | "Final Stretch" | "Migrated";
-
 export interface Token {
   id: number;
   name: string;
