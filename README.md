@@ -27,6 +27,10 @@ Prices are updated every few seconds using a timer-based system.
 When the state updates, React automatically re-renders the UI,
 creating a real-time market-like experience.
 
+
+## Screenshots
+All the screenshots are in the folder "Screenshots"
+
 ## How to Run Locally
 
 ```bash
